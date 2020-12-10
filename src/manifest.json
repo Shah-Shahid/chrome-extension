@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "ASTE Chorme Test Extension",
+  "description": "This is our first Extension",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": {
+      "16": "assets/images/aste-logo.png",
+      "24": "assets/images/aste-logo.png",
+      "32": "assets/images/aste-logo.png"
+    },
+    "default_title": "ASTE Extension",
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "assets/images/aste-logo.png",
+    "32": "assets/images/aste-logo.png",
+    "48": "assets/images/aste-logo.png",
+    "128": "assets/images/aste-logo.png"
+  },
+  "permissions": []
+
+}
